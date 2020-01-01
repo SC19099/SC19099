@@ -1,0 +1,14 @@
+Package: SC19099
+Type: Package
+Title: Compute the inner product matrix and edge matrix
+Version: 1.0
+Date: 2020-01-01
+Author: Yu Xia
+Maintainer: Yu Xia <xiayu01@mail.ustc.edu.cn>
+Description: Compute the inner product matrix of a set of vectors and edge matrix which shows the relationship of variables.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.0.2
