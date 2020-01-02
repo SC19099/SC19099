@@ -9,7 +9,7 @@
   Compute the inner product matrix of a set of vectors and edge matrix which shows the relationship of variables.
 }
 \details{
-  SC19099 is a simple R package developed to implement two functions. Two functions are _Gram_ (generate a matrix consisting of the inner product of vectors) and _edgemat_ (establish a relationship matrix between variables with a set probability) respectively. Specifically, by inputting a set of vectors, the internal product between the vectors can be calculated using _Gram_, and these internal products form a symmetric matrix; By entering the set probability and the dimension of the variable, the probability can be used to determine whether the variables are related by _edgemat_, If relevant, matrix corresponding element is 1, otherwise 0.
+  SC19099 is a simple R package developed to implement two functions. Two functions are Gram (generate a matrix consisting of the inner product of vectors) and edgemat (establish a relationship matrix between variables with a set probability) respectively. Specifically, by inputting a set of vectors, the internal product between the vectors can be calculated using Gram, and these internal products form a symmetric matrix; By entering the set probability and the dimension of the variable, the probability can be used to determine whether the variables are related by edgemat, If relevant, matrix corresponding element is 1, otherwise 0.
 }
 \author{
 Yu Xia
